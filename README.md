@@ -1,4 +1,4 @@
 # tasmotaBuilds
  
-Just a Collection of different tasmota builds used on [Nerdiy.de](Nerdiy.de) :)
+Just a Collection of different tasmota builds used on [Nerdiy.de](https://Nerdiy.de) :)
 
